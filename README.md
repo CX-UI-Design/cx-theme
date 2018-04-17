@@ -3,7 +3,7 @@
 
 ** Note: the project is currently using element-ui@2.2.2 version. **
 
-## mixed reset.css animate.css and element-ui.css(design for specified business you can config)
+-- mixed reset.css animate.css and element-ui.css(design for specified business you can config) --
 
 ## Build Setup
 
