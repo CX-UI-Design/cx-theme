@@ -1,5 +1,5 @@
 .DS_Store
-node_modules/
+/node_modules/
 /src/
 /build/
 /config/
@@ -13,6 +13,14 @@ yarn-error.log*
 *.gitignore
 *.npmignore
 .postcssrc.*
+
+dist/cx-theme.min.js
+
+index.html
+package.json
+README.*
+theme-config.scss
+theme-config.md
 
 
 # Editor directories and files
