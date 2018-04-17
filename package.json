@@ -1,9 +1,10 @@
 {
   "name": "cx-theme",
-  "version": "1.0.0",
-  "description": "A Vue.js project",
+  "version": "1.0.3",
+  "description": "CX-UI Design theme",
   "author": "BroccoliSpring <Lensgcx@163.com>",
-  "private": true,
+  "private": false,
+  "main": "dist/cx-theme.min.css",
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
