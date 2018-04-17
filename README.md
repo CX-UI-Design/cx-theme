@@ -1,6 +1,7 @@
 # CX-Theme
 > CX-UI Design Theme
-> mixed reset.css animate.css and element-ui.css(design for specified business you can config)  \n
+
+#### mixed reset.css animate.css and element-ui.css(design for specified business you can config)
 
 
 ！** Note: the project is currently using element-ui@2.2.2 version. **
